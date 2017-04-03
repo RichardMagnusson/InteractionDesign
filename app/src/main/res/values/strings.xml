@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interaction Design</string>
+    <string name="compass_button">Compass</string>
+    <string name="accelerometer_button">Accelerometer</string>
+    <string name="x_value">X: </string>
+    <string name="y_value">Y: </string>
+    <string name="z_value">Z: </string>
+</resources>
